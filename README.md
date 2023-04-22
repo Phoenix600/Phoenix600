@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Phoenix600
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on anyone
+- 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me pranayramteke613@gmail.com
 
 <!---
