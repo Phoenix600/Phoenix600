@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo15475
-Fork on GitHub4243
+
 <h1 align="center">Hi 👋, I'm Pranay Ramteke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
